@@ -1,4 +1,5 @@
 # Reviews Gender Corpus
+[![DOI](https://zenodo.org/badge/662130423.svg)](https://zenodo.org/badge/latestdoi/662130423)
 
 The corpus consists of 70 IMDB reviews which were manually annotated as male-related, female-related, or both or none of them.
 The reviews are sourced from the [IMDB Review Dataset](https://aclanthology.org/P11-1015), which includes the text of the reviews and a positive or negative label, depending on whether the review transmits a positive sentiment or not.
